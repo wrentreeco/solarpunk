@@ -15,7 +15,7 @@ These tenets collectively reflect Solarpunk's goal of creating a world that is e
 
 
 
-### coming topics
+## coming topics
 - Case Studies: Illustrate successful solarpunk initiatives and projects.
 - Art and Culture: Emphasize the role of creative expression in solarpunk.
 - Systemic Engagement: Guidelines for engaging with broader systems for change.
