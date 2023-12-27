@@ -1,32 +1,32 @@
 # Community Guidelines
 
-1. **Decentralization and Economy**:
+1. **[Decentralization and Economy](#Decentralization-and-Economy)**:
     - Encourage local self-sufficiency and resource sharing.
     - Promote economic practices that meet community needs sustainably and equitably.
-2. **Ecological Awareness and Ecology**:
+2. **[Ecological Awareness and Ecology](#Ecological-Awareness-and-Ecology)**:
     - Advocate for and educate on living in harmony with the environment.
     - Encourage members to understand and reduce their ecological footprints.
-3. **Long-term Design and Future Planning**:
+3. **[Long-term Design and Future Planning](#Long-term-Design-and-Future-Planning)**:
     - Involve all members in long-term planning to protect the environment and expand opportunities.
     - Prioritize initiatives that ensure the well-being of future generations.
-4. **Communal Living and Equity**:
+4. **[Communal Living and Equity](#Communal-Living-and-Equity)**:
     - Foster a community where decisions are made fairly, and everyone has opportunities.
     - Emphasize inclusivity and dignity for all members, regardless of their background.
-5. **Sustainable and Technological Advancement**:
+5. **[Sustainable and Technological Advancement](#Sustainable-and-Technological-Advancement)**:
     - Promote the use of clean, renewable energy sources and green technologies.
     - Encourage innovative solutions that balance technological advancement with ecological health.
-6. **Rebellion and Counterculture**:
+6. **[Rebellion and Counterculture](#Rebellion-and-Counterculture)**:
     - Encourage questioning the status quo and exploring alternative lifestyles and systems.
     - Support artistic and literary expressions that reflect solarpunk values.
-7. **Climate Justice**:
+7. **[Climate Justice](#Climate-Justice)**:
     - Actively work towards addressing the impacts of climate change on vulnerable communities.
     - Collaborate with other movements and organizations to amplify efforts for climate justice.
-8. **Post-Scarcity Vision**:
+8. **[Post-Scarcity Vision](#Post-Scarcity-Vision)**:
     - Strive for a community that moves beyond material scarcity, focusing on abundance through shared resources and collaboration.
-9. **Respect and Responsibility**:
+9. **[Respect and Responsibility](#Respect-and-Responsibility)**:
     - Promote a culture of respect for all members and the environment.
     - Encourage personal responsibility for actions and their impact on the community and the planet.
-10. **Continuous Learning and Adaptation**:
+10. **[Continuous Learning and Adaptation](#Continuous-Learning-and-Adaptation)**:
     - Foster an environment where members are encouraged to learn, share knowledge, and adapt to new challenges and information.
 
 ## Decentralization and Economy
