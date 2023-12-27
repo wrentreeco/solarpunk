@@ -15,7 +15,7 @@ These tenets collectively reflect Solarpunk's goal of creating a world that is e
 
 
 
-## coming topics
+### coming topics
 - Case Studies: Illustrate successful solarpunk initiatives and projects.
 - Art and Culture: Emphasize the role of creative expression in solarpunk.
 - Systemic Engagement: Guidelines for engaging with broader systems for change.
@@ -23,3 +23,16 @@ These tenets collectively reflect Solarpunk's goal of creating a world that is e
 - Growth Critique: Critically assess notions of unchecked growth.
 - Social Equity: Include explicit commitments to inclusivity and social justice.
 - Interactive Elements: Propose community challenges and collaborative projects.
+
+## whats not solarpunk (to address) and what we don't do here
+- consumerism
+- cryptocurrency
+- MLM
+- pyramid schemes
+- vendor sales/advertising/spam
+- unsustainable growth
+- social and environmental inequalities
+- intolerance
+- ostracizing
+- oppression
+- hate
